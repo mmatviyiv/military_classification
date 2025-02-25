@@ -26,13 +26,11 @@ This project is a simple classification of military vehicles using SVM, LDA and 
 
 ## Jupyter Notebook
 
-`run.ipynb` contains the code for the project.
-
-It includes:
+`run.ipynb` contains the code for the project, including:
 
 - Data loading
 - Feature extraction
 - Model training
 - Clustering visualization
 - Performance metrics
-
+- Classification demo
